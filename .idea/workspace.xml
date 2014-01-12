@@ -64,28 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="27" selection-start="968" selection-end="968" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="495">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="1" selection-start="2521" selection-end="2521" vertical-scroll-proportion="0.5140845" vertical-offset="1990" max-vertical-offset="3600">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aboutme/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="81" selection-start="1019" selection-end="1019" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="1020">
+            <state line="189" column="1" selection-start="3158" selection-end="3158" vertical-scroll-proportion="0.3855932" vertical-offset="2562" max-vertical-offset="3720">
               <folding />
             </state>
           </provider>
@@ -109,7 +91,6 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_site/projects/index.html" />
         <option value="$PROJECT_DIR$/404.html" />
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/_posts/2014-01-11-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/projects/index.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
@@ -121,11 +102,12 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_posts/projects/2014-01-06-podb.markdown" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/archiv/index.html" />
         <option value="$PROJECT_DIR$/_posts/2013-01-11-another-one.markdown" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/aboutme/index.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
@@ -163,7 +145,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -180,20 +161,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,228 +248,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogposts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archiv" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aboutme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jekyll" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2014" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jekyll" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2014" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jekyll" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogpost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2014" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jekyll" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blogpost" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog.daxtero.de" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icons" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -534,6 +286,7 @@
       <recent name="$PROJECT_DIR$/img/icons" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/site" />
       <recent name="$PROJECT_DIR$/_posts/projects" />
       <recent name="$PROJECT_DIR$/_posts" />
@@ -774,18 +527,19 @@
       <created>1389458497128</created>
       <updated>1389458497128</updated>
       <workItem from="1389458497735" duration="12276000" />
-      <workItem from="1389480830985" duration="7359000" />
+      <workItem from="1389480830985" duration="8766000" />
+      <workItem from="1389564990954" duration="421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19635000" />
+    <option name="totallyTimeSpent" value="21463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22803347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22851153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -833,72 +587,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <folding />
-        </state>
+        <state line="26" column="0" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/impressum/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="11" column="6" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="11" column="5" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/projects/2014-01-11-casa-edith.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="19" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="225">
-          <folding />
-        </state>
+        <state line="4" column="19" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="36" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="8" column="36" selection-start="242" selection-end="242" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="225">
-          <folding />
-        </state>
+        <state line="7" column="19" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="23" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.0" vertical-offset="194" max-vertical-offset="1125">
-          <folding />
-        </state>
+        <state line="33" column="23" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.0" vertical-offset="194" max-vertical-offset="1125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="47" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="47" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-01-11-welcome-to-jekyll.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="46" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="450">
-          <folding />
-        </state>
+        <state line="22" column="46" selection-start="749" selection-end="749" vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
@@ -917,16 +651,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aboutme/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="35" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="990">
-          <folding />
-        </state>
+        <state line="12" column="35" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="990" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="5" column="6" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -946,61 +676,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="4" selection-start="2168" selection-end="2168" vertical-scroll-proportion="0.4387755" vertical-offset="794" max-vertical-offset="1635">
-          <folding />
-        </state>
+        <state line="73" column="4" selection-start="2168" selection-end="2168" vertical-scroll-proportion="0.4387755" vertical-offset="794" max-vertical-offset="1635" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/projects/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="0" selection-start="2604" selection-end="2604" vertical-scroll-proportion="1.4591837" vertical-offset="244" max-vertical-offset="1335">
-          <folding />
-        </state>
+        <state line="83" column="0" selection-start="2604" selection-end="2604" vertical-scroll-proportion="1.4591837" vertical-offset="244" max-vertical-offset="1335" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-01-11-welcome-to-jekyll.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="46" selection-start="751" selection-end="751" vertical-scroll-proportion="0.46478873" vertical-offset="0" max-vertical-offset="710">
-          <folding />
-        </state>
+        <state line="22" column="46" selection-start="751" selection-end="751" vertical-scroll-proportion="0.46478873" vertical-offset="0" max-vertical-offset="710" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogposts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="5" selection-start="317" selection-end="317" vertical-scroll-proportion="0.26239067" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
+        <state line="12" column="5" selection-start="317" selection-end="317" vertical-scroll-proportion="0.26239067" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="830" selection-end="830" vertical-scroll-proportion="0.52478135" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
+        <state line="24" column="5" selection-start="830" selection-end="830" vertical-scroll-proportion="0.52478135" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/projects/2014-01-06-podb.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.17569546" vertical-offset="0" max-vertical-offset="683">
-          <folding />
-        </state>
+        <state line="8" column="0" selection-start="110" selection-end="110" vertical-scroll-proportion="0.17569546" vertical-offset="0" max-vertical-offset="683" />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="266" selection-end="266" vertical-scroll-proportion="0.29577464" vertical-offset="0" max-vertical-offset="710">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-01-11-another-one.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="20" selection-start="460" selection-end="460" vertical-scroll-proportion="0.30746704" vertical-offset="0" max-vertical-offset="683">
-          <folding />
-        </state>
+        <state line="14" column="20" selection-start="460" selection-end="460" vertical-scroll-proportion="0.30746704" vertical-offset="0" max-vertical-offset="683" />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -1008,72 +717,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sitemap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/404.html">
+    <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="6" selection-start="125" selection-end="125" vertical-scroll-proportion="0.15306123" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
+        <state line="7" column="6" selection-start="125" selection-end="125" vertical-scroll-proportion="0.15306123" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/projects/2014-01-11-casa-edith.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.2112676" vertical-offset="0" max-vertical-offset="710">
-          <folding />
-        </state>
+        <state line="10" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.2112676" vertical-offset="0" max-vertical-offset="710" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="5" selection-start="0" selection-end="312" vertical-scroll-proportion="0.26239067" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
+        <state line="12" column="5" selection-start="0" selection-end="312" vertical-scroll-proportion="0.26239067" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/impressum/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="187" selection-end="187" vertical-scroll-proportion="0.24052478" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
+        <state line="11" column="6" selection-start="187" selection-end="187" vertical-scroll-proportion="0.24052478" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="36" selection-start="772" selection-end="772" vertical-scroll-proportion="0.4373178" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="20" column="36" selection-start="772" selection-end="772" vertical-scroll-proportion="0.4373178" vertical-offset="0" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="18" selection-start="122" selection-end="122" vertical-scroll-proportion="0.13119534" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
+        <state line="6" column="18" selection-start="122" selection-end="122" vertical-scroll-proportion="0.13119534" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="147" selection-end="147" vertical-scroll-proportion="0.17492712" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
+        <state line="8" column="6" selection-start="147" selection-end="147" vertical-scroll-proportion="0.17492712" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="50" selection-start="335" selection-end="335" vertical-scroll-proportion="0.15306123" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
+        <state line="7" column="50" selection-start="335" selection-end="335" vertical-scroll-proportion="0.15306123" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/drafts/.gitkeep">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="710" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-01-11-another-one.markdown">
@@ -1088,16 +777,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/archiv/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="5" selection-start="880" selection-end="880" vertical-scroll-proportion="0.6341108" vertical-offset="0" max-vertical-offset="686">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="27" selection-start="968" selection-end="968" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="495">
-          <folding />
-        </state>
+        <state line="29" column="5" selection-start="880" selection-end="880" vertical-scroll-proportion="0.6341108" vertical-offset="0" max-vertical-offset="686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/icons/white/github_alt.png">
@@ -1105,16 +785,31 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/index.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="81" selection-start="1019" selection-end="1019" vertical-scroll-proportion="-18.125" vertical-offset="0" max-vertical-offset="1020">
+        <state line="14" column="32" selection-start="284" selection-end="284" vertical-scroll-proportion="0.29661018" vertical-offset="0" max-vertical-offset="708">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="81" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.64828616" vertical-offset="0" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="708" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="27" selection-start="968" selection-end="968" vertical-scroll-proportion="0.5365127" vertical-offset="0" max-vertical-offset="671" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="1" selection-start="2521" selection-end="2521" vertical-scroll-proportion="0.5140845" vertical-offset="1990" max-vertical-offset="3600">
+        <state line="189" column="1" selection-start="3158" selection-end="3158" vertical-scroll-proportion="0.3855932" vertical-offset="2562" max-vertical-offset="3720">
           <folding />
         </state>
       </provider>
