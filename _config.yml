@@ -1,0 +1,15 @@
+name: André Meyerjürgens
+description: "Blog von André Meyerjürgens"
+url: "http://blog.daxtero.de"
+
+paginate: 10
+
+timezone: Europe/Berlin
+date_format: '%Y-%m-%d %H:%M:%S'
+download_images: True
+encoding: UTF8
+
+markdown: redcarpet
+pygments: true
+
+include: ['.htaccess']
