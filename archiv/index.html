@@ -4,10 +4,8 @@ layout: default
 ---
 
 <h2>» Archiv</h2>
-<ul>
-    {% capture type %}{{ '' }}{% endcapture %}
+<ul class="posts">
     {% for post in site.posts %}
-
     {% unless post.next %}
     <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -19,11 +17,16 @@ layout: default
     {% endunless %}
 
     {% if post.categories contains 'blogpost' %}
-    <li><span>{{ post.date | date_to_string }}</span> Blog Post: &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+    <li><span>{{ post.date | date_to_string }}</span> { Blog Post } &raquo; <a href="{{ post.url }}">
+        {{ post.title }}
+    </a>
     </li>
     {% endif %}
+
     {% if post.categories contains 'project' %}
-    <li><span>{{ post.date | date_to_string }}</span> Projekt:  &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+    <li><span>{{ post.date | date_to_string }}</span> { Projekt } &raquo; <a href="{{ post.url }}">
+        {{ post.title }}
+    </a>
         {% endif %}
 
         {% endfor %}
