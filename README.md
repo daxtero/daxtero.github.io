@@ -1,4 +1,1 @@
-blog.daxtero.de
-===============
-
-my Blog
+myBlog
